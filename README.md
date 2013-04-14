@@ -1,5 +1,7 @@
 NAME
 
+More details at schimar/gbs (see fork above)
+
 gbs (Genotyping by Sequencing)
 
 DESCRIPTION
